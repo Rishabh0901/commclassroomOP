@@ -3,4 +3,4 @@ I want to learn dsa using java
 I will be successful in life.
 i will slap you.
 I will not slap you.
-I don't want to study nextjs. 
+I want to study react.
